@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ferrousdesigner@gmail.com**
 
-- 📄 My resume [Download Resume](https://firebasestorage.googleapis.com/v0/b/ferrous-portfolio-2024.appspot.com/o/Faraz%20Resume%20%202024.pdf?alt=media&token=88e4823b-29e1-4e14-ae28-0cd9bc43ea94)
+- 📄 My resume [Download Resume](https://firebasestorage.googleapis.com/v0/b/ferrous-portfolio-2024.appspot.com/o/Resume.pdf?alt=media&token=2ff07dcb-cfaf-4a25-8222-009256b18dfb)
 
 
 <h3 align="left">Languages and Tools:</h3>
