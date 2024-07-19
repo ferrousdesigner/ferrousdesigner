@@ -2,7 +2,7 @@
 <h3 align="center">Frontend developer & UI/UX Designer</h3>
 
 - 🔭 I’m currently working as a Frontend Team Lead at [QuickSell](https://quicksell.co)
-- 
+  
 - 🌱 I’m currently learning **NextJS**
 
 - 👯 I’m looking to collaborate on [Foleoz](https://foleoz.com)
