@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working as a Frontend Team Lead at [QuickSell](https://quicksell.co)
   
-- 🌱 I’m currently learning **NextJS**
+- 👯 I’m looking to collaborate on [Tuskbar](https://tuskbar-web-app)
 
-- 👯 I’m looking to collaborate on [Foleoz](https://foleoz.com)
+- 👨‍💻 Checkout my portfolio [ferrousapps.com/about](ferrousapps.com/about)
 
-- 👨‍💻 Checkout my portfolio [ferrousdev.com](ferrousdev.com)
-
-- 💬 Ask me about **React, Javascript**
+- 💬 Ask me about **React, Javascript, App Animations**
 
 - 📫 How to reach me **ferrousdesigner@gmail.com**
 
